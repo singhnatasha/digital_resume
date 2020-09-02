@@ -2,6 +2,10 @@
 
 My Digital Resume
 
+The deployed live app sits here : 
+
+http://nat-frontend-enthusiast.s3-website-us-east-1.amazonaws.com/
+
 Uses react and material ui design 
 
 Getting Started
@@ -24,6 +28,8 @@ go to the right directory (cd digital_resume)
 start the client (yarn start or npm run start)
 
 look for your app on : http://localhost:3000/
+
+to build the app ( npm run build)
 
 Authors
 
