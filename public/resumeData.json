@@ -1,0 +1,130 @@
+{
+  "main": {
+    "name": "Natasha Singh",
+    "occupation": "Frontend enthusiast",
+    "description": "A chronic optimist and a self-motivated professional who translates customer's business goals into operational deliverables in the form of software codes. A true ambivert with a congenial personality and like to work as an independent contributor as well as a team player",
+    "image": "profilepic.jpg",
+    "bio": "A seasoned IT professional with 4 years of experience in  Front end development, possessing in depth experience for service delivery/ application management and managing UI development and testing. Hands on experience in CI with Jenkins, API testing through TOSCA and trained in agile methodologies, DevOps way of working, etc.Drives excellence in every project to deliver outstanding results. A fast learner who likes to take new initiatives, challenges and lead from front.",
+    "contactmessage": "Curious! Always up to meet people and share experiences!",
+    "email": "nasi5167@gmail.com ",
+    "phone": "+91-966-303-1843 / +31-647-588-972",
+    "address": {
+      "street": "De Parelvisserslaan ",
+      "city": "Amsterdam",
+      "state": "North Holland",
+      "zip": "1183 RN"
+    },
+    "website": " ",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "google-plus",
+        "url": "",
+        "className": "fa fa-google-plus"
+      },
+      {
+        "name": "linkedin",
+        "url": "",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/singhnatasha",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "skype",
+        "url": "",
+        "className": "fa fa-skype"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "A technical UI developer and tester who can strike the right balance while working with teams across the globe and business people alike.",
+    "education": [
+      {
+        "school": "M.S Ramaiah Institute Of Technology",
+        "degree": "Bachelor in Software Engineering",
+        "graduated": "2012-2016",
+        "description": "Process re-engineering and automation"
+      },
+      {
+        "school": "Engineering Assignment",
+        "graduated": "2015-2016",
+        "Year": "2015",
+        "description": "Digitization of processes for creating a smart city solution using IoT to gather the data from various systems and how they can be designed for interoperability and efficiency"
+      }
+    ],
+    "work": [
+      {
+        "company": "Merck: Veeva Vault PromoMats",
+        "title": "Application Development Analyst",
+        "years": "June 2018 - Present",
+        "description": "Application developer for the engineering team focussing on the core life science product development and enhancement. Stakeholder management, LEAN approach, UI development and testing."
+      },
+      {
+        "company": "Merck: Assembler",
+        "title": "Application development associate",
+        "years": "April 2017 - May 2018",
+        "description": "Stakeholder management, technical product owner, risk evaluation, testing and coaching the team on scrum agile best practices. Part of the digital innovation team and worked on couple of process improvement ideas with client recognition. worked extensively on the reporting requirement analysis, testing the core banking platform and test automation. Played an important role to start following agile (scrum) for IT development and facilitated the pilot team transformation."
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "CSS3",
+        "level": "80%"
+      },
+      {
+        "name": "React",
+        "level": "70%"
+      },
+      {
+        "name": "Automation testing - TOSCA",
+        "level": "70%"
+      },
+      {
+        "name": "Vue",
+        "level": "60%"
+      },
+      {
+        "name": "Agile product development",
+        "level": "90%"
+      },
+      {
+        "name": "Business Analysis",
+        "level": "70%"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "As the Team Lead I really like to work with Natasha! I'm working with her about 3 years and I know how professional and responsible she is. She is very organized and she's always oriented to complete every task on time with high quality. She can handle multiple projects at a time, dealing directly with the client. She is technically strong and never miss the target. In my absence she's leading the team and I can be sure everything will be done as planned. Natasha has great personality and she is very valuable for the team. She's team player and always open to help other team members.",
+        "user": "Yakov Shumakov  - Team lead, Accenture"
+      },
+      {
+        "text": "I have been working with Natasha for quite long time  she has a fantastic eye for unique designs, and is able to implement some of the best strategies our project had. Natasha  developed software platforms, UI design and development, and web page design and development. She played a significant role, often, in developing and implementing overall web strategies, and dealt with the details along with the bigger picture. Her coding is excellent and her designs are  unique and innovative.",
+        "user": "Mark Walter - Senior Program Manager, Merck USA"
+      }
+    ]
+  }
+}
