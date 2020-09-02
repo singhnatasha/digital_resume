@@ -14,7 +14,8 @@ Clone the repo
 
 yarn OR
 npm install
-this installs all the dependencies for the app
+
+this installs all the dependencies for the app (could be checked at package.json file)
 
 Starting the application
 
