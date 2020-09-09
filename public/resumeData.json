@@ -19,27 +19,27 @@
     "social": [
       {
         "name": "facebook",
-        "url": "",
+        "url": "https://www.facebook.com/snghnatz/",
         "className": "fa fa-facebook"
       },
       {
         "name": "twitter",
-        "url": "",
+        "url": "https://www.facebook.com/snghnatz/",
         "className": "fa fa-twitter"
       },
-      {
-        "name": "google-plus",
-        "url": "",
-        "className": "fa fa-google-plus"
-      },
+      // {
+      //   "name": "google-plus",
+      //   "url": "",
+      //   "className": "fa fa-google-plus"
+      // },
       {
         "name": "linkedin",
-        "url": "",
+        "url": "https://www.linkedin.com/in/natasha-singh-94a38987",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "",
+        "url": "instagram.com/singh.natasha0805/",
         "className": "fa fa-instagram"
       },
       {
@@ -81,7 +81,7 @@
         "company": "Merck: Assembler",
         "title": "Application development associate",
         "years": "April 2017 - May 2018",
-        "description": "Stakeholder management,risk evaluation, developing and coaching the team on scrum agile best practices. Part of the digital innovation team and worked on couple of process improvement ideas with client recognition. worked extensively on development of web based applications and debugging of computer software. Played an important role to start following agile (scrum) for IT development and facilitated the pilot team transformation."
+        "description": "Stakeholder management, technical product owner, risk evaluation, testing and coaching the team on scrum agile best practices. Part of the digital innovation team and worked on couple of process improvement ideas with client recognition. worked extensively on the reporting requirement analysis, testing the core banking platform and test automation. Played an important role to start following agile (scrum) for IT development and facilitated the pilot team transformation."
       }
     ],
     "skills": [
