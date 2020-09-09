@@ -794,7 +794,7 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #contact {
-   background: #191919;
+   background: #2B2B2B;
    padding-top: 96px;
    padding-bottom: 102px;
    color: #636363;
@@ -868,7 +868,7 @@ call-to-action .button {
 	text-transform: uppercase;
 	letter-spacing: 3px;
 	color:#fff;
-   background: #0D0D0D;
+   background: #444444;
 	border: none;
    cursor: pointer;
    height: auto;
