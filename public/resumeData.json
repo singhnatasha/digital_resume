@@ -27,11 +27,6 @@
         "url": "https://www.facebook.com/snghnatz/",
         "className": "fa fa-twitter"
       },
-      // {
-      //   "name": "google-plus",
-      //   "url": "",
-      //   "className": "fa fa-google-plus"
-      // },
       {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/natasha-singh-94a38987",
@@ -46,11 +41,6 @@
         "name": "github",
         "url": "http://github.com/singhnatasha",
         "className": "fa fa-github"
-      },
-      {
-        "name": "skype",
-        "url": "",
-        "className": "fa fa-skype"
       }
     ]
   },
