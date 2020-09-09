@@ -105,6 +105,34 @@
       }
     ]
   },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "QA Testing framework",
+        "category": "My software testing recipe",
+        "image": "canadian-wanderlust.jpg",
+        "url": "https://photos.app.goo.gl/gyFYHj4esBEUvWis9"
+      },
+      {
+        "title": "Client Engagement Process",
+        "category": "A 5 step approach to happy clients",
+        "image": "fury-fighting-gear.jpg",
+        "url": "https://photos.app.goo.gl/54h3quz1ME12D2G97"
+      },
+      {
+        "title": "Project Status Meeting",
+        "category": "Organization and developer motivation tricks",
+        "image": "original-thai-food.jpg",
+        "url": "https://photos.app.goo.gl/rrPoyKHwyMQH5Qow5"
+      },
+      {
+        "title": "Scrum agile cycle",
+        "category": "Good processes make good product",
+        "image": "smirkspace.jpg",
+        "url": "https://photos.app.goo.gl/sVygpeFzPKcp8bb1A"
+      }
+    ]
+  },
   "testimonials": {
     "testimonials": [
       {
